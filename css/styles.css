@@ -1,0 +1,137 @@
+/***********************Tag SELECTOR***********************/
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto 10px auto 10px;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 4px;
+    width: 2.5%;
+    margin: 40px auto 40px auto;
+}
+
+/***********************CLASS  SELECTOR***********************/
+
+.header {
+  height: 50px;
+  background-color: grey;
+}
+
+
+
+
+.web {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 200px auto;
+  text-align: left;
+}
+
+
+
+.chillies-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.computer-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.copywrite {
+  color: #e4f9f5;
+  font-size: 0.75rem;
+  margin: 20px auto;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+ -moz-border-radius: 20px;
+ border-radius: 20px;
+ color: #FFFFFF;
+ font-family: Open Sans;
+ font-size: 25px;
+ font-weight: 400;
+ padding: 15px;
+ background-color: #66BFBF;
+ -webkit-box-shadow: 1px 1px 20px 0 #000000;
+ -moz-box-shadow: 1px 1px 20px 0 #000000;
+ box-shadow: 1px 1px 20px 0 #000000;
+ text-decoration: none;
+ display: inline-block;
+ cursor: pointer;
+ text-align: center;
+ margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
